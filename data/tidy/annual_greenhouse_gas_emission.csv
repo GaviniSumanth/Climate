@@ -1,4 +1,4 @@
-iso3,country,year,mean_global_surface_temp
+iso3,country,year,ghg_emissions
 ABW,Aruba,1970,0.045175751893847003
 ABW,Aruba,1971,0.050062903886213
 ABW,Aruba,1972,0.060857416975044
